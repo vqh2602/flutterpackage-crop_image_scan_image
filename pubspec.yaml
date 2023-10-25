@@ -1,5 +1,6 @@
 name: serp_document_scanner
 description: A new Flutter project.
+repository: https://github.com/vqh2602/flutterpackage-crop_image_scan_image
 publish_to: https://pub.bkholding.vn
 version: 1.0.0-beta.1
 
